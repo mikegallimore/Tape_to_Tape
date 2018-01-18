@@ -22,8 +22,9 @@ set_game = str(set_game)
 in_plays = set_season[:4] + '0' + set_game + '_plays.csv'
 
 ### Creates a variable that locates the file of the exported roster downloaded from tapetotapetracker.com
-### Trims the roster information before converting it into a dict
-roster = '2017020570_roster.csv'
+roster = set_season[:4] + '0' + set_game + '_roster.csv'
+
+### Trims the roster information in a dataframe before converting into a dict
 roster_df = pd.read_csv(roster, usecols = ['playerId', 'fullName'])
 roster_dict = dict(roster_df.values)
 
