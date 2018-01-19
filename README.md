@@ -1,4 +1,11 @@
 # Tape_to_Tape
-Python code for handling data generated with the Tape to Tape tracking app.
+Prep and analyze data exported from the Tape to Tape tracking app.
 
-I intend to produce code that will generate statistics (player- and team-level) as well as visualizations but the only script presently available (process_game.py) reformats the exported plays file available for any game loaded into the tracking interface at tapetotapetracker.com.
+Available:
+- process_game.py
+----------------- Reformats exported plays files from tapetotapetracker.com
+----------------- Written with Python 3.5.4 installed as part of the Anaconda 2.5 distribution, using the Spyder3 IDE
+
+To-Do:
+- Script(s) for generating player and team statistics
+- Script(s) for generating visualizations
