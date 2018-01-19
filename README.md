@@ -1,5 +1,5 @@
 # Tape_to_Tape
-Prep and analyze data exported from the Tape to Tape tracking app.
+Prep and analyze data exported from the Tape to Tape tracking app
 
 Available:
 - process_game.py
