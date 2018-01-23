@@ -10,10 +10,10 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - Script(s) for generating visualizations
 
 <b>Before You Use:</b>
-- Make sure
+- If you wish to use the scripts as is, make sure to create a 'Files' folder within the directory the scripts are located in as well as both an 'Exported' and 'Processed' folder within the 'Files' folder
 
-Usage (within your Python command prompt):
-- So long as the terminal is directed to the proper directory, enter a variant of the following example:
+<b>Usage</b>
+- Open your command line interface and, when running Python and in the proper directory, enter a variant of the following example:
 - <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
 
 <b>Note:</b>
