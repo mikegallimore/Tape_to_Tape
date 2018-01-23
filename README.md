@@ -9,8 +9,8 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - Script(s) for generating player and team statistics
 - Script(s) for generating visualizations
 
-<b>Before You Use:</b>
-- If you wish to use the scripts as is, make sure to create a 'Files' folder within the directory the scripts are located in as well as both an 'Exported' and 'Processed' folder within the 'Files' folder
+<b>Set-Up</b>
+- If you wish to use the scripts as is, make sure to a) create a 'Files' folder within the directory the scripts are located in and b) then create an 'Exported' subfolder and 'Processed' subfolder within the 'Files' folder
 
 <b>Usage</b>
 - Open your command line interface and, when running Python and in the proper directory, enter a variant of the following example:
