@@ -13,8 +13,7 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - If you wish to use the scripts as is, make sure to a) create a 'Files' folder within the directory the scripts are located in and b) then create an 'Exported' subfolder and 'Processed' subfolder within the 'Files' folder
 
 <b>Usage</b>
-- Open your command line interface and, when running Python and in the proper directory, enter a variant of the following example:
-- <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
+- Open your command line interface and, when running Python and in the proper directory, enter a variant of the following: <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
 
 <b>Note:</b>
 - I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
