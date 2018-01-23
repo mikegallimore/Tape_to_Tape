@@ -13,11 +13,11 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - Make sure
 
 Usage (within your Python command prompt):
-- Making sure:
--- <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
+- So long as the terminal is directed to the proper directory, enter a variant of the following example:
+- <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
 
-Note:
-I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
+<b>Note:</b>
+- I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
 
 Special Thanks:
 - Muneeb Alam @muneebalamcu
