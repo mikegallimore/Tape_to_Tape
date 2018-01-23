@@ -18,7 +18,7 @@ Prep and analyze data exported from the Tape to Tape tracking app
 <b>Note:</b>
 - I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
 
-Special Thanks:
+<b>Special Thanks:</b>
 - Muneeb Alam @muneebalamcu
 - Christoper Knieste @chrisknieste
 - Rushil Ram @_rushil_
