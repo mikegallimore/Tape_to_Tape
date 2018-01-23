@@ -21,6 +21,6 @@ Note:
 I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
 
 Special Thanks:
-Muneeb Alam @muneebalamcu
-Christoper Knieste @chrisknieste
-Rushil Ram @_rushil_
+- Muneeb Alam @muneebalamcu
+- Christoper Knieste @chrisknieste
+- Rushil Ram @_rushil_
