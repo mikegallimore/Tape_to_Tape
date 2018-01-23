@@ -1,7 +1,7 @@
 # Tape_to_Tape
 Prep and analyze data exported from the Tape to Tape tracking app
 
-Available:
+<b>Available:</b>
 - parse_game.py, which contains a function that pulls and reformats exported plays files from tapetotapetracker.com
 - run_game.py, which creates a season and game argument it passes through to parse_game.py
 
