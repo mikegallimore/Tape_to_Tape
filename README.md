@@ -11,7 +11,8 @@ Prep and analyze data exported from the Tape to Tape tracking app
 
 <b>Set-Up</b>
 - If you wish to use the scripts as is, make sure to:
-a. Create a 'Files' folder within the directory the scripts are located in
+
+-- a. Create a 'Files' folder within the directory the scripts are located in
 
 b. Create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
 b.i Create both an 'Exported' subfolder as well as a 'Processed' subfolder within the 'Logs' subfolder
