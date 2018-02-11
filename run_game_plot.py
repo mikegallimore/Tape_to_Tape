@@ -5,8 +5,8 @@ Created on Mon Jan 15 11:41:23 2018
 @author: Michael Gallimore (@mikegallimore)
 """
 
-import plot_game_density
-import plot_game_scatter
+import plot_game_density_shots
+import plot_game_scatter_shots
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -18,8 +18,8 @@ parser.add_argument("--game_ID", dest="game_ID", required=False)
 args = parser.parse_args()
 
 ### passes the arguments through to parse_game.py
-plot_game_density.plot_game_density(args.season_ID, args.game_ID)
-plot_game_scatter.plot_game_scatter(args.season_ID, args.game_ID)
+plot_game_density_shots.plot_game_density_shots(args.season_ID, args.game_ID)
+plot_game_scatter_shots.plot_game_scatter_shots(args.season_ID, args.game_ID)
 
 ### to run this program, open your Python command prompt and make sure you're working out of the proper directory
 ### in the console, enter the run_game.py file with season and game arguments 
