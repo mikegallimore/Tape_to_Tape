@@ -9,6 +9,7 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - run_game_plot.py, which creates a season and game argument it passes through to the plotting scripts
 
 <b>To-Do:</b>
+
 Statistics scripts:
 - Players
 - Teams
@@ -19,6 +20,7 @@ Visualization scripts:
 - Zone Exits and Exit Assists
 
 <b>Set-Up</b>
+
 If you wish to use the scripts as is, make sure to:
 
 - Create a 'Files' folder within the directory the scripts are located in
@@ -27,6 +29,7 @@ If you wish to use the scripts as is, make sure to:
 - Within the 'Files' folder, create a 'Plots' subfolder and then, within it, create subfolders for each season (e.g. '20172018') you intend to work with
 
 <b>Usage</b>
+
 Open your command line interface and, when running Python and in the proper directory, enter a variations of the following:
 - <code>python run_game_parse.py --season_ID 20172018 --game_ID 20570</code>
 - <code>python run_game_plot.py --season_ID 20172018 --game_ID 20570</code>
