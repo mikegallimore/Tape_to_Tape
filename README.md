@@ -39,7 +39,7 @@ Open your command line interface and, when running Python and in the proper dire
 I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
 
 Special thanks: 
-- Muneeb Alam @muneebalamcu
-- Prashanth Iyer @iyer_prashanth
-- Christoper Knieste @chrisknieste
-- Rushil Ram @_rushil_
+- Muneeb Alam (@muneebalamcu)
+- Prashanth Iyer (@iyer_prashanth)
+- Christoper Knieste (@chrisknieste)
+- Rushil Ram (@_rushil_)
