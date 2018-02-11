@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ### creates a function with arguments to pass through from run_game_plot.py
-def plot_game_density(season_ID, game_ID):
+def plot_game_density_shots(season_ID, game_ID):
 
     ### extracts some game information from the league's json file which corresponds to the gameID
     json_url = "http://statsapi.web.nhl.com/api/v1/game/" + season_ID[0:4] + "0" + game_ID + "/feed/live"            
