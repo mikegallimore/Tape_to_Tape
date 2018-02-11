@@ -14,10 +14,8 @@ If you wish to use the scripts as is, make sure to:
 
 - Create a 'Files' folder within the directory the scripts are located in
 - Create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
-- Create both an 'Exported' subfolder as well as a 'Processed' subfolder within the 'Logs' subfolder
-- Within both the 'Exported' and 'Processed' subfolders, create subfolders for each season (e.g. '20172018') you intend to work with  
-- Create a 'Plots' subfolder within the 'Files' folder
-- Within the 'Plots' subfolder, create subfolders for each season (e.g. '20172018') you intend to work with
+- Within the 'Files' folder, create both an 'Exported' subfolder as well as a 'Processed' subfolder and then, within both, create subfolders for each season (e.g. '20172018') you intend to work with  
+- Within the 'Files' folder, create a 'Plots' subfolder and then, within it, create subfolders for each season (e.g. '20172018') you intend to work with
 
 <b>Usage</b>
 - Open your command line interface and, when running Python and in the proper directory, enter a variant of the following: <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
