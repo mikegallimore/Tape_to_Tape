@@ -34,10 +34,12 @@ Open your command line interface and, when running Python and in the proper dire
 - <code>python run_game_parse.py --season_ID 20172018 --game_ID 20570</code>
 - <code>python run_game_plot.py --season_ID 20172018 --game_ID 20570</code>
 
-<b>Note:</b>
-- I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
+<b>Notes:</b>
 
-<b>Special Thanks:</b>
+I've written and tested these scripts using the Spyder3 IDE with Python 3.5.4 installed as part of the Anaconda 2.5 distribution
+
+Special thanks: 
 - Muneeb Alam @muneebalamcu
+- Prashanth Iyer @iyer_prashanth
 - Christoper Knieste @chrisknieste
 - Rushil Ram @_rushil_
