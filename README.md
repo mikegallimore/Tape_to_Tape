@@ -10,7 +10,15 @@ Prep and analyze data exported from the Tape to Tape tracking app
 - Script(s) for generating visualizations
 
 <b>Set-Up</b>
-- If you wish to use the scripts as is, make sure to a) create a 'Files' folder within the directory the scripts are located in and b) then create an 'Exported' subfolder and 'Processed' subfolder within the 'Files' folder
+- If you wish to use the scripts as is, make sure to:
+a. Create a 'Files' folder within the directory the scripts are located in
+
+b. Create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
+b.i Create both an 'Exported' subfolder as well as a 'Processed' subfolder within the 'Logs' subfolder
+b.ii Within both the 'Exported' and 'Processed' subfolders, create subfolders for each season (e.g. '20172018') you intend to work with  
+
+c. Create a 'Plots' subfolder within the 'Files' folder
+c.i Within the 'Plots' subfolder, create subfolders for each season (e.g. '20172018') you intend to work with
 
 <b>Usage</b>
 - Open your command line interface and, when running Python and in the proper directory, enter a variant of the following: <code>python run_game.py --season_ID 20172018 --game_ID 20570</code>
