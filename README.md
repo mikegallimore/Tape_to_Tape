@@ -1,5 +1,5 @@
 # Tape_to_Tape
-Use Python to prep and analyze data exported from the Tape to Tape tracking app
+Use Python to prep and analyze data already exported and saved locally from the Tape to Tape tracking app
 
 <b>Available:</b>
 - parse_game.py, which contains a function that pulls and reformats exported plays files from tapetotapetracker.com
@@ -23,10 +23,10 @@ Visualization scripts:
 
 If you wish to use the scripts as is, make sure to:
 
-- Create a 'Files' folder within the directory the scripts are located in
-- Create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
-- Within the 'Files' folder, create both an 'Exported' subfolder as well as a 'Processed' subfolder and then, within both, create subfolders for each season (e.g. '20172018') you intend to work with  
-- Within the 'Files' folder, create a 'Plots' subfolder and then, within it, create subfolders for each season (e.g. '20172018') you intend to work with
+- Store the scripts within the root directory of your choosing (for example, I house everything within a desktop folder named 'Tape2Tape')
+- Create a 'Files' folder within your root directory and then create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
+- Within the 'Logs' subfolder, create both an 'Exported' subfolder as well as a 'Processed' subfolder and then, within both, create subfolders for each season (e.g. '20172018') you intend to work with  
+- Within the 'Plots' subfolder, create subfolders for each season (e.g. '20172018') you intend to work with
 
 <b>Usage</b>
 
