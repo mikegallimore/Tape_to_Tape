@@ -30,7 +30,7 @@ If you wish to use the scripts as is, make sure to:
 
 <b>Usage</b>
 
-Open your command line interface and, when running Python and in the proper directory, enter a variations of the following:
+Open your command line interface and, when running Python and in the proper directory, enter variations of the following:
 - <code>python run_game_parse.py --season_ID 20172018 --game_ID 20570</code>
 - <code>python run_game_plot.py --season_ID 20172018 --game_ID 20570</code>
 
