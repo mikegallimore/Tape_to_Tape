@@ -5,6 +5,7 @@ Use Python to prep and analyze data already exported and saved locally from the 
 - parse_game.py, which contains a function that pulls and reformats plays files already exported from tapetotapetracker.com and placed within a subfolder
 - plot_game_density_shots.py, which contains a function that generates a 2D density plot of a game's shot events overlaying a rink image
 - plot_game_scatter_shots.py, which contains a function that generates a scatter plot of a game's shot events overlaying a rink image
+- rink_image.jpg, which serves as the background image for charts of game events
 - run_game_parse.py, which creates a season and game argument it passes through to parse_game.py
 - run_game_plot.py, which creates a season and game argument it passes through to the plotting scripts
 
@@ -23,7 +24,7 @@ Visualization scripts:
 
 If you wish to use the scripts as is, make sure to:
 
-- Store the scripts within a root folder of your choosing (e.g. a desktop folder named 'Tape2Tape')
+- Store the scripts and rink_image.jpg within a root folder of your choosing (e.g. a desktop folder named 'Tape2Tape')
 - Create a 'Files' folder within your root folder and then create both a 'Logs' subfolder and a separate 'Plots' subfolder within the 'Files' folder
 - Within the 'Logs' subfolder, create both an 'Exported' subfolder as well as a 'Processed' subfolder and then, within both, create subfolders for each season (e.g. '20172018') you intend to work with  
 - Within the 'Plots' subfolder, create subfolders for each season (e.g. '20172018') you intend to work with
